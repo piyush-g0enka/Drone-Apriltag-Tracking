@@ -7,7 +7,7 @@ First install the voxl-mpa updated .deb package in the drone. This package is mo
 Place apriltag_localize and px4_ros_com in a ros2 workspace in the drone and build the packages. Installation of px4_msgs ROS2 package is also required.
  
 ## YouTube Video
-[![Drone Apriltag Tracking Video](https://github.com/piyush-g0enka/Drone-Apriltag-Waypoint-Navigation/blob/main/images/yt.png)](https://www.youtube.com/watch?v=SFHdX0v_6u8)
+[![Drone Apriltag Tracking Video](https://github.com/piyush-g0enka/Drone-Apriltag-Tracking/blob/main/img/yt.png)](https://www.youtube.com/watch?v=9J-th0HawDk)
 
 
 ## Usage
