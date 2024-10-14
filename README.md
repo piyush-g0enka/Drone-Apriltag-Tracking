@@ -1,4 +1,4 @@
-# Drone ApriltagTracking
+# Drone Apriltag Tracking
 
 Drone - MODAL AI VOXL2 m500
 
